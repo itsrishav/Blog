@@ -1,0 +1,2 @@
+# Blog
+My Rails Blog
